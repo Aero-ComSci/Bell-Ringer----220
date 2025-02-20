@@ -12,13 +12,13 @@ Stack 'em up tall, digits taking flight.
 
 [Chorus]
 O and l, coding like a pro,
-Turning base 10, break it down slow.
+Turning base 2, break it down slow.
 Binary flow, digital on deck,
 Watch me flex, conversion so tech.
 
 [Verse 2]
-l-l-o, that's a three in disguise,
-Four's just two-oh, woke up to fries.
+l-l-o, that's a 6 in disguise,
+Four's just one oh oh, woke up to fries.
 Five got a ring, one-o-one bling,
 Encode the numbers, hear the bytes sing.
 
