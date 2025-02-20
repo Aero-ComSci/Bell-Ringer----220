@@ -39,3 +39,6 @@ O and l, coding like a pro,
 Turning base 10, break it down slow.
 Binary flow, digital on deck,
 Watch me flex, conversion so tech.
+
+# 3 is suppose to be represented as 11
+# Number 6 is supposed to be represented as 110
