@@ -7,7 +7,7 @@ Fix the lyrics First to get their pulled request wins!
 [Verse]
 Start with a number, anything it'll do,
 Gotta break it down, bring it to the crew.
-Divide by two, remainder in your sights,
+Exponentiate by two, remainder not in sights,
 Stack 'em up tall, digits taking flight.
 
 [Chorus]
