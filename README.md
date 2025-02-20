@@ -4,7 +4,7 @@ Binary Flipplin -- Binary Bangers
 
 Fix the lyrics First to get their pulled request wins!
 
-Verse]
+[Verse]
 Countin' up digits, pushin' them switches
 One to the system, zeros in stitches
 Bits flip like acrobats, code never glitches
@@ -35,7 +35,7 @@ Tech game's strong, circuits runnin' miles
 Zeros and ones, got the firmware dialed
 
 [Chorus]
-I I, numbers shine on the screen
-O O, data flows like a stream
-I O, binary code in the team
-I I, digits rule the machine
+I I, double ones on the scene
+O O, zeros clean like a dream
+I O, binary code in the beam
+I I, digits high like a scheme
