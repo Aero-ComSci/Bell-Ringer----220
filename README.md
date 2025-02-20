@@ -29,10 +29,11 @@ Switch 'em, flip 'em, binary waves,
 Digital hustle, modern day slaves.
 
 [Verse 3]
-Six is triple down, double-oh-l,
-Seven stacks up, o-o-l, swell.
+Six is triple down, 1-1-0,
+Seven stacks up, 1-1-1, swell.
 Eight a fresh start, one more bit,
-Nine o-o-l-o, making it lit.
+Nine 1-o-o-1, making it lit.
+
 
 [Chorus]
 O and l, coding like a pro,
