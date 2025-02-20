@@ -4,38 +4,22 @@ Binary Flipplin -- Binary Bangers
 
 Fix the lyrics First to get their pulled request wins!
 
-[Verse]
-Zeros and ones they dance in the night
-Flickering lights they shine so bright
-In the binary world it's all black and white
-Positive or negative ain't no fight
+[Verse] Start with a number, anything it'll do, Gotta break it down, bring it to the crew. Divide by two, remainder in your sights, Stack 'em up tall, digits taking flight.
 
-[Verse 2]
-Flip the bits and add a one
-Two's complement starts the fun
-Negative numbers aren't that dumb
-Just rearranged under the binary sun
 
-[Chorus]
-Binary love flip the bits and go
-Negative feelings simply overflow
-From zero down to thirty-two
-In the end it’s all just ones and zeros
+[Chorus] O and l, coding like a pro, Turning base 10, break it down slow. Binary flow, digital on deck, Watch me flex, conversion so tech.
 
-[Verse 3]
-If you see a leading one
-That’s how you know it's begun
-Negative numbers on the run
-Counting down till they’re done
 
-[Bridge]
-32 bits in a row
-High to low they neatly flow
-From minus two to the thirty-one
-All compacted in this binary show
+[Verse 2] l-l, that's a three in disguise, Four's just l-o-o, woke up to fries. Five got a ring, one-o-one bling, Encode the numbers, hear the bytes sing.
 
-[Chorus]
-Binary love flip the bits and go
-Negative feelings simply overflow
-From zero down to thirty-two
-In the end it’s all just ones and zeros
+
+[Bridge] Count 'em, calculate, algorithm slick, Tech cypher, be sharp and quick. Switch 'em, flip 'em, binary waves, Digital hustle, modern day slaves.
+
+
+[Verse 3] Six is triple down, double-l-o, Seven stacks up, l-l-l, swell. Eight a fresh start, one more bit, Nine l-o-o-l, making it lit.
+
+
+[Chorus] O and l, coding like a pro, Turning base 10, break it down slow. Binary flow, digital on deck, Watch me flex, conversion so tech.
+
+[changed version]
+
