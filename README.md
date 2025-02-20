@@ -20,7 +20,7 @@ Stackin' those digits, my hustle hereditary
 I I, double ones on the scene
 O O, zeros clean like a dream
 I O, binary code in the beam
-I I, digits high like a scheme
+0 I, digits high like a scheme
 
 [Verse 11]
 Digits don't sleep, keep the LEDs buzzin'
@@ -38,4 +38,4 @@ Zeros and ones, got the firmware dialed
 I I, numbers shine on the screen
 O O, data flows like a stream
 I O, binary code in the team
-I I, digits rule the machine
+0 I, digits rule the machine
