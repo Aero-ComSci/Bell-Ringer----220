@@ -17,10 +17,10 @@ Zeros and ones, make the tech contemporary
 Stackin' those digits, my hustle hereditary
 
 [Chorus]
-I I, double ones on the scene
-O O, zeros clean like a dream
-I O, binary code in the beam
-I I, digits high like a scheme
+3, double ones on the scene
+0, zeros clean like a dream
+2, binary code in the beam
+3, digits high like a scheme
 
 [Verse 3]
 Digits don't sleep, keep the LEDs buzzin'
@@ -35,7 +35,7 @@ Tech game's strong, circuits runnin' miles
 Zeros and ones, got the firmware dialed
 
 [Chorus]
-I I, numbers shine on the screen
-O O, data flows like a stream
-I O, binary code in the team
-I I, digits rule the machine
+3, numbers shine on the screen
+0, data flows like a stream
+2, binary code in the team
+3, digits rule the machine
