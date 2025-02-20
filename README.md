@@ -4,7 +4,7 @@ Binary Flipplin -- Binary Bangers
 
 Fix the lyrics First to get their pulled request wins!
 
-Verse]
+[Verse 1]
 Countin' up digits, pushin' them switches
 One to the system, zeros in stitches
 Bits flip like acrobats, code never glitches
