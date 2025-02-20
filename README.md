@@ -17,7 +17,7 @@ Binary flow, digital on deck,
 Watch me flex, conversion so tech.
 
 [Verse 2]
-l-l-o, that's a three in disguise,
+0-1-0, that's a three in disguise,
 Four's just two-oh, woke up to fries.
 Five got a ring, one-o-one bling,
 Encode the numbers, hear the bytes sing.
