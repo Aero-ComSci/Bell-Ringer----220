@@ -35,7 +35,7 @@ Tech game's strong, circuits runnin' miles
 Zeros and ones, got the firmware dialed
 
 [Chorus]
-I I, numbers shine on the screen
-O O, data flows like a stream
-I O, binary code in the team
-I I, digits rule the machine
+I I, double ones on the scene
+O O, zeros clean like a dream
+I O, binary code in the beam
+I I, digits high like a scheme
