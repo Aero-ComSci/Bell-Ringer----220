@@ -4,38 +4,14 @@ Binary Flipplin -- Binary Bangers
 
 Fix the lyrics First to get their pulled request wins!
 
-[Verse]
-Zeros and ones they dance in the night 01
-Flickering lights they shine so bright
-In the binary world it's all black and white
-Positive or negative ain't no fight
+[Verse] Start with a number, anything will do, Gotta break it down, bring it to the crew. Divide by two, remainders in sight, Stack 'em up tall, digits take flight.
 
-[Verse 2]
-Flip the bits and add a one 101
-Two's complement starts the fun 
-Negative numbers aren't that dumb
-Just rearranged under the binary sun
+[Chorus] Zeros and ones, coding like a pro, Turn base 10, break it down slow. Binary flow, digital on deck, Watch me flex, conversion so tech.
 
-[Chorus]
-Binary love flip the bits and go 010
-Negative feelings simply overflow 
-From zero down to thirty-two (000000 to 111111)
-In the end it’s all just ones and zeros (101010)
+[Verse 2] One One Zero, that's a three in disguise, Four's just one-zero-zero, no surprise. Five's got a ring, one-zero-one bling, Encode the numbers, hear the bytes sing.
 
-[Verse 3]
-If you see a leading one
-That’s how you know it's begun
-Negative numbers on the run
-Counting down till they’re done
+[Bridge] Count 'em, calculate, algorithm slick, Tech cypher sharp, binary quick. Switch 'em, flip 'em, binary waves, Digital hustle, modern-day craze.
 
-[Bridge]
-32 bits in a row (00000000000000000000000000000000)
-High to low they neatly flow (01111111111111111111111111111111)
-From -2^31 to the thirty-one (10000000000000000000000000000000 to 00000000000000000000000000011111)
-All compacted in this binary show (11110010110101001010101010101010)
+[Verse 3] Six is one-one-zero, binary thrill, Seven stacks up, one-one-one, chill. Eight's a fresh start, one-zero-zero-zero bit, Nine's one-zero-zero-one, making it lit.
 
-[Chorus]
-Binary love flip the bits and go 
-Negative feelings simply overflow
-From zero down to thirty-two
-In the end it’s all just ones and zeros
+[Chorus] Zeros and ones, coding like a pro, Turn base 10, break it down slow. Binary flow, digital on deck, Watch me flex, conversion so tech.
