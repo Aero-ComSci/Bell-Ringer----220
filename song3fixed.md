@@ -1,0 +1,17 @@
+Binary Flipplin -- Binary Bangers
+
+Fix the lyrics First to get their pulled request wins!
+
+[Verse 1] Start with a number, anything it'll do, Gotta break it down, bring it to the crew. Divide by two, remainder in your sights, Stack 'em up tall, digits taking flight.
+
+[Chorus] O and l, coding like a pro, Turning base 10, break it down slow. Binary flow, digital on deck, Watch me flex, conversion so tech.
+
+[Verse 10] 1-1, that's a three in disguise, Four's just 1-0-0, woke up to fries. Five got a ring, one-o-one bling, Encode the numbers, hear the bytes sing.
+
+[Bridge] Count 'em, calculate, algorithm slick, Tech cypher, be sharp and quick. Switch 'em, flip 'em, binary waves, Digital hustle, modern day slaves.
+
+[Verse 11] Six is triple down, 1-1-0, Seven stacks up, 1-1-1, swell. Eight a fresh start, one more bit, Nine 1-0-0-1, making it lit.
+
+[Chorus] O and l, coding like a pro, Turning base 10, break it down slow. Binary flow, digital on deck, Watch me flex, conversion so tech.
+
+I redid all the binary number for lack of any other ideas.
