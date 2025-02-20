@@ -7,7 +7,7 @@ Fix the lyrics First to get their pulled request wins!
 [Verse]
 Start with a number, anything it'll do,
 Gotta break it down, bring it to the crew.
-Divide by two, remainder in your sights,
+find the power of twos and add, remainder in your sights,
 Stack 'em up tall, digits taking flight.
 
 [Chorus]
@@ -17,8 +17,8 @@ Binary flow, digital on deck,
 Watch me flex, conversion so tech.
 
 [Verse 2]
-l-l-o, that's a three in disguise,
-Four's just two-oh, woke up to fries.
+l-l-o, that's a six in disguise,
+zero's just two-oh, woke up to fries.
 Five got a ring, one-o-one bling,
 Encode the numbers, hear the bytes sing.
 
@@ -29,10 +29,10 @@ Switch 'em, flip 'em, binary waves,
 Digital hustle, modern day slaves.
 
 [Verse 3]
-Six is triple down, double-oh-l,
-Seven stacks up, o-o-l, swell.
+Six is triple down, l-l-oh,
+Seven stacks up, l-l-l, swell.
 Eight a fresh start, one more bit,
-Nine o-o-l-o, making it lit.
+Nine l-o-o-l, making it lit.
 
 [Chorus]
 O and l, coding like a pro,
