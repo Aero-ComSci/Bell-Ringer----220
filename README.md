@@ -20,7 +20,7 @@ Just rearranged under the binary sun
 Binary love flip the bits and go
 Negative feelings simply overflow
 From zero down to thirty-two
-In the end it’s all just ones and zeros
+In the end it’s all just ones and zeros too
 
 [Verse 3]
 If you see a leading one
@@ -38,4 +38,4 @@ All compacted in this binary show
 Binary love flip the bits and go
 Negative feelings simply overflow
 From zero down to thirty-two
-In the end it’s all just ones and zeros
+In the end it’s all just ones and zeros too
